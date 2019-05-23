@@ -1,0 +1,19 @@
+.row-shop-category {
+    border: 1px solid #999;
+    padding: .5rem;
+    border-bottom: none;
+}
+.row-shop-category:last-child {
+    border-bottom: 1px solid #999;
+}
+.category-input {
+    border: none;
+    background-color: #eee;
+}
+.shop-category-name {
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+.category-wrap a {
+    margin-right: 1rem;
+}
